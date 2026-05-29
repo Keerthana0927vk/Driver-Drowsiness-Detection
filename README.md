@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Driver Drowsiness Detection using Eye Closure and Yawning Analysis with Deep Learning
 
 ## Project Overview
@@ -227,3 +228,7 @@ Driver-Drowsiness-Detection/
 ## Conclusion
 
 This project successfully developed a deep learning-based driver drowsiness detection system using eye closure and yawning analysis. Both a Custom CNN and MobileNetV2 Transfer Learning model were implemented and compared. MobileNetV2 achieved superior performance with 85% accuracy and demonstrated strong capability in detecting fatigue-related facial states. The final fatigue classification logic and progression analysis provide a practical foundation for real-time driver monitoring applications.
+=======
+# Driver-Drowsiness-Detection
+
+>>>>>>> aa2f65b764e801feff815b05ac90fe2d194f1343
