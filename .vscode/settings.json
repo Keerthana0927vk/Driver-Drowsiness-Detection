@@ -1,0 +1,11 @@
+{
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.diagnosticMode": "openFilesOnly",
+    "python.analysis.autoSearchPaths": false,
+    "python.analysis.useLibraryCodeForTypes": false,
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none",
+        "reportMissingModuleSource": "none",
+        "reportGeneralTypeIssues": "none"
+    }
+}
